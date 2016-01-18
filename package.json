@@ -1,10 +1,15 @@
 {
   "name": "react-thesidebar",
   "version": "0.0.1",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios"
+  ],
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "react-native": "git://github.com/facebook/react-native.git#master"
+    "react-native": "^0.3.1"
   }
 }
